@@ -14,6 +14,7 @@
 
 @theme{
   --color-main-bg:#0D5EA6,
+  --color-light-bg:#87CEFA,
 }
 
 /* @media (prefers-color-scheme: dark) {
